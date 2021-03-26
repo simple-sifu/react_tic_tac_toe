@@ -2,7 +2,7 @@ require('file-loader?name=[name].[ext]!./index.html')
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Game from './Game';
-import './App.scss';
+import './Game.scss';
 
 ReactDOM.render(
     <Game />,
