@@ -6,3 +6,7 @@ explicit declaration.
 `resolve: {
   extensions: ['.js', '.jsx']
 }`
+
+# script commands
+npm run build
+npm start -- will start at 3010
