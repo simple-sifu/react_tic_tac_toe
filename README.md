@@ -15,7 +15,7 @@ npm start -- will host at localhost:3010
 ## Lifting State Up
 To collect data from multiple children, or to have two child components communicate with each other, you need to declare the shared state in their parent component instead. The parent component can pass the state back down to the children by using props; this keeps the child components in sync with each other and with the parent component
 
-## Immtability is important
+## Immutability is important
 The main benefit of immutability is that it helps you build pure components in React. Immutable data can easily determine if changes have been made, which helps to determine when a component requires re-rendering.
 
 ## Function component
