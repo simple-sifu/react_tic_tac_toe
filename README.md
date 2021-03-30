@@ -1,4 +1,5 @@
 # React Tic Tac Toe
+[Tic-tac-toe](https://simple-sifu.github.io/react_tic_tac_toe/)
 
 ## using jsx requires changes to webpack.config.js
 Webpack doesnt know to resolve .jsx files implicitly. You can include .jsx in the extensions that webpack should resolve without
